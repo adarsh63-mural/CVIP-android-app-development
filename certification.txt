@@ -1,23 +1,23 @@
 ---------------------------------------------------
 Here are the ownership and the certification details
-of the taskorganizer 1.0
+of the tictactoegamers 1.0
 ---------------------------------------------------
 
-app_name - 						taskorganizer
-app_alias - 					taskorganizer
+app_name - 						tictactoegamers
+app_alias - 					tictactoegamers
 app_author_name - 				My Company
 app_author_organizational - 	My Company
 app_author_organization - 		My Company
 app_author_locality - 			My Company
 app_author_state - 				Maharashtra
 app_author_country - 			India
-app_password - 					DYQt5sCDXTLI
+app_password - 					3xYV34kwL5tN
 app_versionName - 				versionName "1.0"
 app_versionCode - 				100
 
 ---------------------------------------------------
 The certification was created by WebIntoApp.com at
-the Friday 27th of October 2023 04:41:29 AM
+the Thursday 9th of November 2023 05:21:43 AM
 
 https://www.webintoapp.com
 ---------------------------------------------------
